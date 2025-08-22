@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+   
+    "rootDir": "./",
+    "outDir": "./dist",
+
+   
+    "target": "es6",            
+    "module": "none",            
+    "lib": ["dom", "es6"],       
+    "types": [],
+
+    "sourceMap": false,          
+    "declaration": false,       
+
+    "strict": true,              
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+
+    
+    "skipLibCheck": true
+  },
+  "include": ["./*.ts"],
+  "exclude": ["node_modules"]
+}

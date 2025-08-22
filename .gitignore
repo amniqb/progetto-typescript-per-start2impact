@@ -1,0 +1,5 @@
+﻿dist/
+node_modules/
+package-lock.json
+index.d.ts.map
+index.d.ts
