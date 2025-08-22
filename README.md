@@ -8,6 +8,7 @@ un media online che sostiene la parità di genere.
 
 ## Link 
 - [CodePen](https://codepen.io/amniqb/pen/NPGYJmG)
+- [Netlify](https://progetto-typescript-amna.netlify.app/)
 
 ---
 
